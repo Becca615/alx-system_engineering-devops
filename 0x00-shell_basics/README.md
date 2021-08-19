@@ -1,0 +1,1 @@
+chmod u+x file: to make files executable

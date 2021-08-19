@@ -1,0 +1,1 @@
+git repository for Bash project
